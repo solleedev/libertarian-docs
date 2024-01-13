@@ -23,7 +23,7 @@
             nodejs
             bun
             jq
-            corepack
+            yarn
           ];
         };
       }
